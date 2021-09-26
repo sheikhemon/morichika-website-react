@@ -1,0 +1,18 @@
+.selected {
+  background-color: #d9d4e7;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  margin-left: 20px;
+  height: 400px;
+  padding: 20px 0;
+}
+
+.selected h3 {
+  color: #0e172c;
+  text-align: left;
+  margin-left: 20px;
+}
+
+.selected-cart {
+  color: #a786df;
+}

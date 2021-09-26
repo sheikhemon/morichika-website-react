@@ -1,0 +1,39 @@
+.card {
+  background-color: white;
+  color: black;
+  padding: 30px 0;
+  border-radius: 10px;
+  transition: all .2s linear;
+}
+
+.card:hover {
+  background-color: #d9d4e7;
+  color: #0e172c;
+}
+
+.pictures {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.selected-btn {
+  border: 0;
+  color: #181818;
+  background-color: #4fc4cf;
+  padding: 10px 15px;
+  font-size: 20px;
+  border-radius: 7px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.selected-btn:hover {
+  background-color: #fff;
+  color: #181818;
+}
+
+.icon {
+  display: flex;
+  justify-content: space-evenly;
+}
